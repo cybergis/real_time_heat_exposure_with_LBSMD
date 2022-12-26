@@ -7,6 +7,7 @@ How to Use this code on CyberGISX?
 1. Clone this repo to CyberGISX
 
 2. Data Retrieval
+
   a. If you want to retrieve the full dataset:
 
     i. Generate a ssh key by: ssh-keygen
