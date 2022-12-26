@@ -1,9 +1,6 @@
-# Mapping Real-time Heat Exposure with Social Media Data
+# Mapping Dynamic Human Sentiments of Heat Exposure with Location-Based Social Media Data
 
-Author: Fangzheng Lyu
-Email: flu8@illinois.edu
-
-This github repo is attached to the manuscript Mapping Real-time Heat Exposure with Social Media Data. The code can be directly run on the platform CyberGISX at https://cybergisxhub.cigi.illinois.edu/ with confidential. This study aims to explore the possibility to used location-based social media data to map people’s exposure to heat by analyzing real-time social media Twitter.
+This github repo is attached to the manuscript Mapping Dynamic Human Sentiments of Heat Exposure with Location-Based Social Media Data. The code can be directly run on the platform CyberGISX at https://cybergisxhub.cigi.illinois.edu/ with confidential. This study aims to explore the possibility to used location-based social media data to map people’s exposure to heat by analyzing real-time social media Twitter.
 
 How to Use this code on CyberGISX?
 
