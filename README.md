@@ -6,7 +6,7 @@ How to Use this code on CyberGISX?
 
 1. Generate a ssh key by: ssh-keygen
 
-2. Retrieve your ssh key and send it to email flu8@illinois.edu
+2a. Retrieve your ssh key and send it to corresponding author
 
 3. Authorized used will be given the permission to retrive Twitter data on Keeling
 
