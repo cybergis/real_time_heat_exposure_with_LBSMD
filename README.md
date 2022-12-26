@@ -21,6 +21,8 @@ How to Use this code on CyberGISX?
     i. Download the dataset and unzip it
     
     ii. Rename the data_sample to data and upload the dataset to CyberGISX
+    
+    iii. Change corresponding code in the notebook for path and data description
 
 3. Use the notebook provided for near real-time analysis of your own/reproduce the result in the manuscript
 
