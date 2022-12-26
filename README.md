@@ -9,17 +9,17 @@ How to Use this code on CyberGISX?
 2. Data Retrieval
   a. If you want to retrieve the full dataset:
 
-    1. Generate a ssh key by: ssh-keygen
+    i. Generate a ssh key by: ssh-keygen
 
-    2. Retrieve your ssh key and send it to corresponding author
+    ii. Retrieve your ssh key and send it to corresponding author
 
-    3. Authorized used will be given the permission to retrive Twitter data on Keeling
+    iii. Authorized used will be given the permission to retrive Twitter data on Keeling
 
   b. You can also use the sample data: https://doi.org/10.6084/m9.figshare.21780065
     
-    1. Download the dataset and unzip it
+    i. Download the dataset and unzip it
     
-    2. Rename the data_sample to data and upload the dataset to CyberGISX
+    ii. Rename the data_sample to data and upload the dataset to CyberGISX
 
 3. Use the notebook provided for near real-time analysis of your own/reproduce the result in the manuscript
 
